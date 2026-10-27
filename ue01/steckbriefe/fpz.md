@@ -11,5 +11,6 @@ verschiedenen Programmiersprachen und der Entwicklung
 kleiner Anwendungen beschäftigt.
 
 ## Das erwarte ich von der Veranstaltung
-
+Ich möchte meine Kenntnisse in Git und GitHub vertiefen
+und die Zusammenarbeit in Softwareprojekten besser verstehen.
 …
